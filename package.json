@@ -1,0 +1,14 @@
+{
+  "name": "basic-algos",
+  "version": "1.0.0",
+  "description": "A function to check whether the user input is a palindrome",
+  "main": "palindrome.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Susan Githaiga",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
