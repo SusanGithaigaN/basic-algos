@@ -26,4 +26,4 @@ in the reverse order. For example "hello" is not a palindrome, it should return 
 
 ## Running the file
 To test the file, run the following command on the terminal:
-    `node missing integer.js`
+    `node missingInteger.js`
