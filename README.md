@@ -23,3 +23,7 @@ in the reverse order. For example "hello" is not a palindrome, it should return 
  ## Section B
  - Let's say we have an array of first 45 numbers with one missing number. Need to find a missing integer from the list
 (JavaScript)# basic-algos
+
+## Running the file
+To test the file, run the following command on the terminal:
+    `node missing integer.js`
